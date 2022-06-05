@@ -3,8 +3,7 @@ void main() {
 
   print("list sebelum diubah: $list1");
 
-  // mengubah nilai list
-
+  // mengubah nilai elemen pertama
   list1[1] = 99;
 
   print("list sesudah diubah: $list1");
