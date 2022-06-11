@@ -18,11 +18,11 @@ void main() {
   print('Satu argumen:');
   printString("Dart");
 
-  // memanggil fungsi dengan satu argumen
-  print('\nDua argumen:');
+  // memanggil fungsi dengan dua argumen
+  print('\n\nDua argumen:');
   printString("Dart", 3);
 
-  // memanggil fungsi dengan satu argumen
+  // memanggil fungsi dengan tiga argumen
   print('\n\nTiga argumen:');
   printString("Dart", 5, true);
 }
