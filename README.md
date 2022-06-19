@@ -1,2 +1,1 @@
-# Suryanataa.github.io
-basic programming with dart
+Learning basic programing with dart language
