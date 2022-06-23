@@ -7,6 +7,13 @@ class Point {
     this.y = y;
   }
 
+  //jika konstruktor tanpa parameter
+
+  ///Point(){
+  /// x = 1;
+  /// y = 1;
+  ///}
+
   void setLocation(int x, int y) {
     this.x = x;
     this.y = y;
